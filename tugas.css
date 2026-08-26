@@ -1,0 +1,29 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color:darkcyan
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color:hotpink;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:darkturquoise;
+}
+
+.highlight {
+    background-color: darkgray;
+    font-weight: bold;
+}
+
+.stabilo {
+    background-color: darkgray;
+    font-weight: bold;
+}
+
+#Judul-Utama {
+    color:azure;
+    text-align: center;
+}
