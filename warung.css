@@ -1,0 +1,22 @@
+h1,h2, h3, h4, h5, h6 {
+    font-family: 'Segoe UI', sans-serif;
+    color: rgb(rgb(188, 162, 197), rgb(144, 68, 154), rgb(183, 69, 162));
+}
+
+ul li{
+    background-color: beige;
+    color: palevioletred;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav > a{
+    text-decoration: none;
+    color: pink;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color:aliceblue;
+    background-color:deeppink;
+}
